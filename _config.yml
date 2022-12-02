@@ -1,11 +1,11 @@
 # General
-title: The Awesome Jekyll Template
-email: example_author@email.com
+title: Descomplica
+email: ninja.pri@gmail.com
 source: .
 destination: ./public
-baseurl: ""
-url: https://jekyll-bootstrap.douglasmedeiros.dev
-srcurl: ""
+baseurl: "https://bellial.github.io/descomplica.io/"
+url: "https://bellial.github.io/descomplica.io/"
+srcurl: "https://bellial.github.io/descomplica.io/"
 lang: pt-BR
 locale: pt_BR
 author: Example Author
