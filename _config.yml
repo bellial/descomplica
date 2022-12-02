@@ -3,9 +3,9 @@ title: Descomplica
 email: ninja.pri@gmail.com
 source: .
 destination: ./public
-baseurl: "https://bellial.github.io/descomplica.io/"
-url: "https://bellial.github.io/descomplica.io/"
-srcurl: "https://bellial.github.io/descomplica.io/"
+baseurl: "https://bellial.github.io/descomplica.io"
+url: "https://bellial.github.io/descomplica.io"
+srcurl: "https://bellial.github.io/descomplica.io"
 lang: pt-BR
 locale: pt_BR
 author: Example Author
