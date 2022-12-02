@@ -32,11 +32,11 @@ social:
     - https://www.linkedin.com/in/example_author/
 
 # Site Paths
-post_path: /assets/images/posts/
-icon_path: /assets/icons/
-image_path: /assets/images/
-css_path: /assets/css/
-js_path: /assets/scripts/
+post_path: assets/images/posts/
+icon_path: assets/icons/
+image_path: assets/images/
+css_path: assets/css/
+js_path: assets/scripts/
 
 # Build settings
 markdown: kramdown
