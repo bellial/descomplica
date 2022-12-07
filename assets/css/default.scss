@@ -124,9 +124,10 @@ html {
   object-position: top;
 }
 @font-face {
-  font-family: "Nerko";
+  font-family: "Nerko One";
   src: url("/assets/fonts/NerkoOne-Regular.ttf") format("truetype");
 }
 .titulo{
-  font-family:'Nerko';
+  font-family: "Nerko One", cursive;
+  font-weight: 700;
 }
