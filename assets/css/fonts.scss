@@ -42,3 +42,21 @@
 .font-Lato-Black {
   font-family: "Lato Black", var(--bs-font-sans-serif) !important;
 }
+
+@font-face {
+  font-family: "Lobster";
+  src: url("../fonts/Lobster-Regular.ttf") format("truetype");
+}
+
+.font-Lobster {
+  font-family: "Lobster", var(--bs-font-cursive) !important;
+}
+
+@font-face {
+  font-family: "Nerko One";
+  src: url("../fonts/NerkoOne-Regular.ttf") format("truetype");
+}
+
+.font-Lobster {
+  font-family: "Nerko One", var(--bs-font-cursive) !important;
+}
