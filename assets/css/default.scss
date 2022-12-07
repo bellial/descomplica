@@ -123,7 +123,10 @@ html {
   object-fit: cover;
   object-position: top;
 }
-
+@font-face {
+  font-family: "Nerko";
+  src: url("assets/NerkoOne-Regular.ttf") format("truetype");
+}
 .titulo{
   font-family:'Nerko';
 }
