@@ -134,16 +134,18 @@ html {
   font-family: "Lato", sans-serif;
 }
 .color1{
-  color: #872b61;
+  color: #872b61 !important;
 }
 .color2{
-  color: #d15802;
+  color: #d15802 !important;
 }
 .color3{
-  color: #606301;
+  color: #606301 !important;
 }
 .btn-success{
-  margin-right: 10em;
-  margin-top: 3.5em;
-  padding: 1em 5em;
+  font-family: Lobster, cursive;
+  font-size: larger;
+  margin-right: 8.2em;
+  margin-top: 2.9em;
+  padding: 0.6em 3em;
 }
