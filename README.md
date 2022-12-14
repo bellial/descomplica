@@ -1,10 +1,10 @@
-# The Awesome Jekyll Template
+# Atividade Prática Descomplica
 
-###### Um template Jekyll completo com Bootstrap para Github Pages!
+###### Atividade prática do Projeto Instituto Nu.
 
 
 
-```sh
-git clone https://github.com/medeirosinacio/jekyll-bootstrap-github-pages.git
+```
+utilizando o template https://github.com/medeirosinacio/jekyll-bootstrap-github-pages.git
 ```
 
