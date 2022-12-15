@@ -1,10 +1,13 @@
-# Atividade Prática Descomplica
+# Atividade Prática do Projeto Instituto Nu Descomplica
 
-###### Atividade prática do Projeto Instituto Nu.
+###### Projeto loja virtual com Bootstrap.
 
 
-
-```
-utilizando o template https://github.com/medeirosinacio/jekyll-bootstrap-github-pages.git
-```
+● Título da Prática: Aplicação do uso do bootstrap, cards, carousel e imagens em um documento
+HTML
+● Objetivo: O aluno precisa identificar, codificar as propriedades disponíveis do bootstrap e aplicar em
+um documento HTML para reproduzir o site especificado
+● Materiais, Métodos e Ferramentas: O aluno precisa ter uma IDE de desenvolvimento de site para
+poder codificar e visualizar o layout HTML especificado. O software indicado para isso é o visual
+studio code. Contudo, pode ser utilizado qualquer IDE.
 
